@@ -1,5 +1,6 @@
-
 # DIVI MVP Demo
+
+This project is build using Angular (Ver 5)
 
 Libraries that are used in this project and needs to be installed:
 
