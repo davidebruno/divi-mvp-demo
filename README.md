@@ -13,6 +13,7 @@ Libraries in the project:
 
 
 To execute the project type: - npm start
+
 Server is running on http://localhost:4200
 
 
